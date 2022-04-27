@@ -1,4 +1,4 @@
-## Hi there, I'm Orel <img src="https://github.com/orellazri/orellazri/raw/main/etc/wave.gif" height="25px">
+## Hi there, I'm Avia <img src="https://github.com/orellazri/orellazri/raw/main/etc/wave.gif" height="25px">
 
 <img src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" align="right" width="50%">
 
