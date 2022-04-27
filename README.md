@@ -1,4 +1,4 @@
-## Hi there, I'm Avia <img src="https://github.com/orellazri/orellazri/raw/main/etc/wave.gif" height="25px">
+## Welcome, I'm Avia  🧚
 
 <img src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" align="right" width="50%">
 
@@ -6,7 +6,7 @@ I am a third year software engineering student at JCE. I am a strong team player
 
 <br />
 
-## What I Use ⚡
+## What I Use 👩🏻‍💻
 
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
