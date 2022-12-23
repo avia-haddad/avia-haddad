@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" align="right" width="50%">
 
-I am a third year software engineering student at JCE. I am a strong team player, provide quality technical solutions in a timely manner with minimal supervision, and a quick self-learner.
+I am a forth-year software engineering student at Azrieli College. I am a strong team player, provide quality technical solutions in a timely manner with minimal supervision, and a quick self-learner. I enjoy coding and solving problems, am a great communicator, professional, dedicated and strive for excellence. Have a strong understanding of algorithms and data structure, as well as proficiency In Python, Java, C and C++.
 
 <br />
 
