@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" align="right" width="50%">
 
-I am a forth-year software engineering student at Azrieli College. I am a strong team player, provide quality technical solutions in a timely manner with minimal supervision, and a quick self-learner. I enjoy coding and solving problems, am a great communicator, professional, dedicated and strive for excellence. Have a strong understanding of algorithms and data structure, as well as proficiency In Python, Java, C and C++.
+I am Recent Software Engineering graduate from Azrieli College. Strong team player with a knack for delivering quality technical solutions. Quick self-learner, proficient in Python, Java, C, and C++. Passionate about coding, problem-solving, and dedicated to excellence. 
 
 <br />
 
@@ -35,4 +35,5 @@ I am a forth-year software engineering student at Azrieli College. I am a strong
 <code>![Ansible](https://img.shields.io/badge/-Ansible-black?style=flate&logo=Ansible)</code>
 <code>![Jenkins](https://img.shields.io/badge/-Jenkins-152630?style=flate&logo=Jenkins)</code>
 <code>![Linux](https://img.shields.io/badge/-Linux-473c38?style=flate&logo=Linux)</code>
+
 -->
