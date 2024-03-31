@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" align="right" width="50%">
 
-I am Recent Software Engineering graduate from Azrieli College. Strong team player with a knack for delivering quality technical solutions. Quick self-learner, proficient in Python, Java, C, and C++. Passionate about coding, problem-solving, and dedicated to excellence. 
+I am Recent Software Engineering graduate from Jerusalem College of Engineering. Strong team player with a knack for delivering quality technical solutions. Quick self-learner, proficient in Python, Java, C, and C++. Passionate about coding, problem-solving, and dedicated to excellence. 
 
 <br />
 
